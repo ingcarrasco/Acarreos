@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Acarreos.clpprj">
+	<settings><PM_URL><![CDATA[C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\]]></PM_URL><PM_HOME_URL><![CDATA[C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\]]></PM_HOME_URL><PM_LIBS><![CDATA[]]></PM_LIBS><PM_FTP_CONNECTION><![CDATA[]]></PM_FTP_CONNECTION><PM_FTP_DIR><![CDATA[]]></PM_FTP_DIR><PM_FTP_UPLOAD_ON_SAVE><![CDATA[INT:0]]></PM_FTP_UPLOAD_ON_SAVE></settings><removed value=";C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\grabarobra.php;"/><added value=""/><codestructure version="4.6.1">
+		<phptree>
+			<treenode node="../scripts/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f13;6;34;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/menu.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f14;13;33;13;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f13;8;34;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php;f13;4;34;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php;f13;4;34;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php;f13;6;34;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php;f13;6;34;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f11;2;32;2;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f13;11;34;11;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f11;4;32;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f13;6;34;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f13;13;34;13;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f11;6;32;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f13;8;34;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/UsarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f11;3;32;3;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../inc/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f16;17;33;17;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../inc/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f16;19;33;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f11;2;32;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="../scripts/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f11;4;32;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="inc/fechas.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f13;4;27;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f14;8;28;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f12;4;26;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f16;17;30;17;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f16;18;30;18;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="inc/usarBD.php;PHP:PHP Include;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f12;2;26;2;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f14;10;28;10;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f12;6;26;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f16;19;30;19;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="salto;PHP:PHP Word;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f11;2;16;2;;;;vpos;;v;;r&quot;\n&lt;br&gt;\n&quot;;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="_POST;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f82;29;88;29;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f13;4;19;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f13;2;19;2;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f12;6;18;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f13;2;19;2;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f15;16;21;16;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f2;11;8;11;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php;f9;8;15;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php;f9;8;15;8;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="annioActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f47;34;59;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f47;33;59;33;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f2;12;14;12;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f66;8;78;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f47;34;59;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f70;20;82;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f55;6;67;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="asuntoActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;18;15;18;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="baseDeDatos;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\usarBD.php;f2;2;14;2;;;;vposbool;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="cita;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f17;52;22;52;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="conectado;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\nuevaagenda\crearBase.php;f2;2;12;2;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="conexion;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f40;8;49;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f42;26;51;26;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f44;24;53;24;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f40;11;49;11;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\usarBD.php;f2;1;11;1;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f44;24;53;24;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f35;6;44;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f41;20;50;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f41;12;50;12;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f27;13;36;13;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php;f31;25;40;25;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f35;19;44;19;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php;f31;25;40;25;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f35;21;44;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="consulta;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\nuevaagenda\crearBase.php;f2;4;11;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f2;7;11;7;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f4;24;13;24;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f6;22;15;22;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;10;11;10;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f6;22;15;22;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f3;5;12;5;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f3;18;12;18;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f2;8;11;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f0;9;9;9;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php;f4;21;13;21;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f3;18;12;18;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php;f4;21;13;21;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f3;20;12;20;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="datosDeLaCita;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;14;16;14;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="diaActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f10;34;20;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f10;33;20;33;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f2;14;12;14;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f29;8;39;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f10;34;20;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f33;20;43;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f18;6;28;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="fechaEnCurso;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f82;32;95;32;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f54;22;67;22;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f3;7;16;7;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f83;49;96;49;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f83;43;96;43;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f112;25;125;25;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f73;18;86;18;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f80;23;93;23;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="hacerConsulta;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\nuevaagenda\crearBase.php;f2;5;16;5;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f2;8;16;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f4;26;18;26;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f6;24;20;24;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;11;16;11;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f6;24;20;24;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f3;20;17;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f2;12;16;12;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="horaActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;16;13;16;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="horaDeCita;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f3;16;14;16;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="i;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f15;43;17;43;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f17;56;19;56;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f17;32;19;32;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="mesActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php;f29;34;39;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f29;33;39;33;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php;f2;13;12;13;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f48;8;58;8;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f29;34;39;34;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f52;20;62;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php;f37;6;47;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="minutoActual;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f2;17;15;17;;;;vposstring;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nuevaFecha;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f2;5;13;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="nuevaHora;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f2;4;12;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="numeroDeCitasDelDia;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php;f6;27;26;27;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="numeroDeUsuarios;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f6;27;23;27;;;;vposint;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="result;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php;f3;6;10;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f3;19;10;19;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f3;21;10;21;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="row;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php;f9;26;13;26;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php;f9;28;13;28;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+			<treenode node="usuario;PHP:Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f17;53;25;53;;;;vposarray;;v;;r;;d-1,-1;;b0,0;;m">
+			</treenode>
+		</phptree>
+		<jstree>
+			<treenode node="mandar;JS:Function Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f0;36;7;43;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f0;4;7;11;;;;vpos;;v;;r;;d33,4;;b0,0;;mresultado;;p">
+				<treenode node="document;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f10;38;18;38;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f10;6;18;6;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f10;6;18;6;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="resultado;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f23;36;32;36;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php;f23;4;32;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\Codelobster0.php;f23;4;32;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="mostrarDatos;JS:Function Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f0;27;7;34;;;;vpos;;v;;r;;d30,27;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php;f8;28;16;28;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="saltar;JS:Function Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f0;4;7;7;;;;vpos;;v;;r;;d29,4;;b0,0;;mpagina;;p">
+				<treenode node="document;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\index.php;f10;5;18;5;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f8;5;16;5;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+				<treenode node="pagina;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\index.php;f24;4;30;4;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php;f22;4;28;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+			<treenode node="volver;JS:Function Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f0;18;7;20;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f0;13;5;15;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f0;3;4;5;;;;vpos;;v;;r;;d20,3;;b0,0;;m">
+				<treenode node="document;JS:JS Var Name;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php;f8;19;16;19;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php;f6;14;14;14;;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php;f5;4;13;4;;;;vpos;;v;;r;;d-1,-1;;b0,0;;m">
+				</treenode>
+			</treenode>
+		</jstree>
+		<scsstree>
+		</scsstree>
+		<lesstree>
+		</lesstree>
+	</codestructure><todoblock>
+	</todoblock>
+	<filescache>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\usarBD.php" crc="-1901063103"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\menu.php" crc="1260411222"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\index.php" crc="364300781"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\fechas.php" crc="-560979749"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\crearBase.php" crc="1420577887"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\Codelobster0.php" crc="1604745361"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\scripts\cargaejemplos.php" crc="31712770"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\obras.php" crc="1327766435"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\insertobra.php" crc="377736240"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\obras\agregar.php" crc="-230030598"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\insertcamion.php" crc="377736240"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\camiones.php" crc="1496897709"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\camiones\agregar.php" crc="-230030598"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\Usuarios.php" crc="-1360269101"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\index.php" crc="-960571031"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarNuevaCita.php" crc="394298536"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\grabarCambios.php" crc="-1849370313"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\eliminarUsuario.php" crc="1136890602"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarFecha.php" crc="1240223279"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\cambiarCita.php" crc="154588120"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\bajaUsuario.php" crc="1675776636"/>
+		<file name="C:\Program Files (x86)\EasyPHP-DevServer-14.1VC11\data\localweb\projects\Acarreos\agregarCita.php" crc="-577290265"/>
+	</filescache>
+</project>
